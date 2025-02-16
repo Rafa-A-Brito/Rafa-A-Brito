@@ -1,5 +1,13 @@
 ### Olá! Eu sou Rafael Brito👋!
 
+### Formação Acadêmica
+<table>
+      <tr>
+           <td>
+                 <img src="eniac.png" alt="Foto ENIAC"/>
+           </td> 
+      </tr>
+</table>
 <p align="left">
       <a href="https://github.com/codinokrnos?tab=followers">
          <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rafa-A-Brito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
