@@ -1,18 +1,26 @@
 ### Olá! Eu sou Rafael Brito👋!
-
-### Formação Acadêmica
-<table>
-      <tr>
-           <td>
-                 <img src="eniac.png" alt="Foto ENIAC"/>
-           </td> 
-      </tr>
-</table>
 <p align="left">
       <a href="https://github.com/codinokrnos?tab=followers">
          <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rafa-A-Brito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Rafa-A-Brito?tab=repositories&sort=stargazers">
          <img alt="Total de estrelas" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rafa-A-Brito?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+
+### Formação Acadêmica
+<table>
+      <tr>
+          <td align="center" width="100px">
+             <img src="eniac.png" alt="Foto ENIAC"/>
+          <br/>
+          <sub>
+             <b> Técnico em Informática</b>
+             <br/>
+             ENIAC
+             <br/>
+             <b> 2024-2026</b> 
+          </td>
+          </sub>
+      </tr>
+</table>
 <!--<p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Image"></img>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Image"></img>
