@@ -9,7 +9,7 @@
 <table>
       <tr>
           <td align="center" width="100px">
-             <img src="eniac.png" alt="Foto ENIAC"/>
+             <img src="./assets/eniac.png" alt="Foto ENIAC"/>
           <br/>
           <sub>
              <b> Técnico em Informática</b>
