@@ -21,6 +21,7 @@
           </sub>
       </tr>
 </table>
+
 <!--<p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Image"></img>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Image"></img>
@@ -96,7 +97,25 @@
     />
 <br/>
 <br/>
- 
+
+
+### 🏢 Eventos
+<table>
+      <tr>
+          <td align="center" width="100px">
+             <img src="./assets/mostratech.png" alt="Foto MOSTRATECH"/>
+          <br/>
+          <sub>
+             <b> MOSTRATECH</b>
+             <br/>
+             ENIAC
+             <br/>
+             <b> 2024 </b> 
+          </td>
+          </sub>
+      </tr>
+</table>
+
 ### 📊 Estatísticas
 <p>
     <img 
@@ -109,11 +128,16 @@
 <img 
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="100"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-A-Brito&theme=tokyonight&custom_title=Tecnologias&langs=_count=9"
     />      
-</p>   
+</p>  
+
+<br/>
+<br/>
+
+
 
     
           
