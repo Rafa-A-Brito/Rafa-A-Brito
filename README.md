@@ -25,14 +25,6 @@
 </table>
 
 ---
-<!--<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python Image"></img>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Image"></img>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming Language Image"></img>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Image"></img>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Image"></img>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Image"></img>
-</p>-->
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -122,7 +114,7 @@
 
 ---
 
-### 🏢 Eventos
+### 🏢 Eventos e Competições
 <table>
       <tr>
           <td align="center" width="100px">
@@ -138,6 +130,16 @@
           </sub>
       </tr>
 </table>
+
+
+---
+
+# 📇 Contatos
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://rafaelbrito.com](https://stackoverflow.com/users/29687323/rafael-brito))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://rafaelbrito.com](https://stackoverflow.com/users/29687323/rafael-brito))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://rafaelbrito.com](https://stackoverflow.com/users/29687323/rafael-brito))
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]([https://rafaelbrito.com](https://stackoverflow.com/users/29687323/rafael-brito))
 
 
 
