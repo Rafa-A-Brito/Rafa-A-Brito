@@ -161,8 +161,17 @@
 ### 🎯 Projetos
 
 -  🕹️ 2025 ➝[projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
+
+<!-- Snake Animation -->
+<div align="center">
+    
+![snake gif](https://github.com/Rafa-A-Brito/Rafa-A-Brito/blob/output/github-snake-dark.svg)
+</div>
+
+<!-- Visit Counter -->
+<div align="center">
   
-
-
+  [![](https://visitcount.itsvg.in/api?id=Rafa-A-Brito&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
     
           
