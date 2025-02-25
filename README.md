@@ -68,21 +68,43 @@
   />
   <img
     align="left"
+    alt="Node"
+    title="Node"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
+    />      
+          
+  <img
+    align="left"
+    alt="MondoDB"
+    title="MondoDB"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
+    />      
+          
+  <img
+    align="left"
     alt="React"
     title="React"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
   />
-
+  <img
+    align="left"
+    alt="Vite"
+    title="Vite"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+  />
 
   <img 
     align="left"
     alt="Express"
     title="Express"
     width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-  />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+      
   <img 
     align="left"
     alt="SQL"
@@ -90,8 +112,7 @@
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
     />
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
@@ -114,7 +135,7 @@
 
 ---
 
-### 🏢 Eventos e Competições
+### 🏢 Partipação em Eventos e Competições
 <table>
       <tr>
           <td align="center" width="100px">
@@ -160,7 +181,7 @@
 
 ### 🎯 Projetos
 
--  🕹️ 2025 ➝[projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
+-  🕹️ **2025** ➝[projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
 
 <!-- Snake Animation -->
 <div align="center">
