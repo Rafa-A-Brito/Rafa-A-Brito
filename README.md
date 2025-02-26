@@ -38,8 +38,8 @@
   
   <img     
     align="left"
-    alt="C language"
-    title="C language"
+    alt="Linguagem C "
+    title="Linguagem C "
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
     />
@@ -61,8 +61,8 @@
   />
   <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS3"
+    title="CSS3"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
@@ -76,8 +76,8 @@
           
   <img
     align="left"
-    alt="MondoDB"
-    title="MondoDB"
+    alt="MongoDB"
+    title="MongoDB"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
     />      
@@ -179,9 +179,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15h4BdBsXJ/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29687323/rafael-brito)
 
-### 🎯 Projetos
+### 🎯 Projetos Principais
 
 -  🕹️ **2025** ➝[projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
+-  ⍩⃝ **Game** ➝ [pacman-js](https:github.com/Rafa-A-Brito/projeto-reactpacman-js) •ᴗ•
+
+---
 
 <!-- Snake Animation -->
 <div align="center">
