@@ -112,6 +112,21 @@
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
     />
+  <img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
+    />
+  <img 
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   
+    />
+    
 <br/><br/>
 
 ---
