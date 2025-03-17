@@ -180,7 +180,7 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29687323/rafael-brito)
 
 ### 🎯 Projetos Principais
-
+> Em desenvolvimento:
 -  🕹️ **2025** ➝[projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
 -  ⍩⃝ **Game** ➝ [pacman-js](https:github.com/Rafa-A-Brito/projeto-reactpacman-js) •ᴗ•
 
