@@ -1,4 +1,4 @@
-### Olá! Eu sou Rafael Brito👋!
+### Olá! Eu sou Rafael Brito 👋!
 <p align="left">
       <a href="https://github.com/codinokrnos?tab=followers">
          <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rafa-A-Brito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
