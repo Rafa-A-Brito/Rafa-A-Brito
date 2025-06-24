@@ -177,13 +177,29 @@
           </sub>
       </tr>
 </table>
-</table>
 
 ---
+
+### 🌐 Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,html,css,js,go,tailwind,nodejs" />
+  </a>
+</p>
+
+---
+
 ### 🌍 Idiomas
 ![Português Nativo](https://img.shields.io/badge/Portugu%C3%AAs-Nativo-brightgreen?style=for-the-badge)
 ![Inglês Intermediário](https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio-blue?style=for-the-badge)
 ![Alemão Básico](https://img.shields.io/badge/Alem%C3%A3o-B%C3%A1sico-red?style=for-the-badge)
+
+---
+### 🎯 Projetos Principais
+> Em desenvolvimento:
+-  🕹️ **2025** ➝ [projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
+-  ⍩⃝ **Game** ➝ [pacman-js](https:github.com/Rafa-A-Brito/pacman-js) •ᴗ•
 
 ---
 
@@ -194,15 +210,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15h4BdBsXJ/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29687323/rafael-brito)
 
-### 🎯 Projetos Principais
-> Em desenvolvimento:
--  🕹️ **2025** ➝ [projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
--  ⍩⃝ **Game** ➝ [pacman-js](https:github.com/Rafa-A-Brito/pacman-js) •ᴗ•
-
----
+### 
 
 <!-- Snake Animation -->
 <div align="center">
+
     
 ![snake gif](https://github.com/Rafa-A-Brito/Rafa-A-Brito/blob/output/github-snake-dark.svg)
 </div>
