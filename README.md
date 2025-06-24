@@ -198,8 +198,8 @@
 ---
 ### 🎯 Projetos Principais
 > Em desenvolvimento:
--  🕹️ **2025** ➝ [projeto-react](https:github.com/Rafa-A-Brito/projeto-react) ☁
--  ⍩⃝ **Game** ➝ [pacman-js](https:github.com/Rafa-A-Brito/pacman-js) •ᴗ•
+-  🎵 **2025** ➝ [project-react](https:github.com/Rafa-A-Brito/project-react) ☁
+-  🕹️ **Game** ➝ [pacman-js](https://github.com/Rafa-A-Brito/pacman-js) •ᴗ•
 
 ---
 
