@@ -8,20 +8,18 @@
 ---
 
 ### Formação Acadêmica
+
 <table>
-      <tr>
-          <td align="center" width="100px">
-             <img src="./assets/eniac.png" alt="Foto ENIAC"/>
-          <br/>
-          <sub>
-             <b> Técnico em Informática</b>
-             <br/>
-             ENIAC
-             <br/>
-             <b> 2024-2026</b> 
-          </td>
-          </sub>
-      </tr>
+  <tr>
+    <td align="center" width="200px">
+      <img src="./assets/eniac.png" width="100px" alt="Foto ENIAC"/><br/>
+      <sub><b>Técnico em Informática</b><br/>ENIAC<br/><b>2024-2026</b></sub>
+    </td>
+    <td align="center" width="200px">
+      <img src="./assets/hashtagprogramacao.jpg" width="100px" alt="Foto HashtagProgramação"/><br/>
+      <sub><b>Projeto React + MongoDB</b><br/>Hashtag Programação<br/><b>2025</b></sub>
+    </td>
+  </tr>
 </table>
 
 ---
