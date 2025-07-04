@@ -25,77 +25,91 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white  )
+![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black  )
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black  )
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white  )
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white  )
+![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white  )
+![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white  )
+![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black  )
+![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white  )
+![](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white  )
+![](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white  )
+![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white  )
+![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white  )
 
-  <img 
+ <!-- 
+<img 
     align="left"
     alt="Python"
     title="Python"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />      
+/>      
   
-  <img     
+<img     
     align="left"
-    alt="Linguagem C "
-    title="Linguagem C "
+    alt="Linguagem C"
+    title="Linguagem C"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-    />
+/>
   
-  <img 
+<img 
     align="left"
     alt="JavaScript"
     title="JavaScript"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
+/>
           
-  <img
+<img
     align="left"
     alt="HTML"
     title="HTML"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />
-  <img 
+/>
+<img 
     align="left"
     alt="CSS3"
     title="CSS3"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />
-  <img
+/>
+<img
     align="left"
     alt="Node"
     title="Node"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
-    />      
+/>      
           
-  <img
+<img
     align="left"
     alt="MongoDB"
     title="MongoDB"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
-    />      
+/>      
           
-  <img
+<img
     align="left"
     alt="React"
     title="React"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img
+/>
+<img
     align="left"
     alt="Vite"
     title="Vite"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-  />
+/>
 
-  <img 
+<img 
     align="left"
     alt="Express"
     title="Express"
@@ -103,30 +117,28 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
       
-  <img 
+<img 
     align="left"
     alt="SQL"
     title="SQL"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-    />
-  <img 
+/>
+<img 
     align="left"
     alt="Git"
     title="Git"
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
-    />
-  <img 
+/>
+<img 
     align="left"
     alt="GitHub"
     title="GitHub"
     width="30px"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   
-    />
-    
-<br/><br/><br/>
-
+/>
+-->
 ---
 
 ### 📊 Estatísticas
