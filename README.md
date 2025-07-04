@@ -208,7 +208,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15h4BdBsXJ/)
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29687323/rafael-brito)
 
-<img src="./assets/gif-readme" width="70" align="right"/>
+
+<img alt="Gif Rafa" align="right" width="120" src="./assets/gif-readme2.gif"/>
+
 <!-- Snake Animation -->
 <div align="center">
 
