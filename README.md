@@ -195,15 +195,15 @@
 
 ---
 ### 🎯 Projetos Principais
-> Em desenvolvimento:
+> Concluídos e `diponíveis` na web
 -  🎵 **2025** ➝ [project-react](https://github.com/Rafa-A-Brito/project-react) ☁
+  
+> Em desenvolvimento:
 -  🕹️ **Game** ➝ [pacman-js](https://github.com/Rafa-A-Brito/pacman-js) •ᴗ•
 
 ---
 
 ### 💬 Contatos
-<div>
-      
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GKOGQUCCPHAZL1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-brito-3a3819308/)
