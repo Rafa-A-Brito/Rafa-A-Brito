@@ -25,19 +25,26 @@
 ---
 
 ### 🤖 Linguagens e Tecnologias
-![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white  )
-![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black  )
-![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black  )
-![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white  )
-![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white  )
-![](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white  )
-![](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white  )
-![](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black  )
-![](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white  )
-![](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white  )
-![](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white  )
-![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white  )
-![](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white  )
+<div>
+      
+![Code](https://img.shields.io/badge/Code-React-61DAFB?style=flat&logo=react)
+![Code](https://img.shields.io/badge/Code-HTML5-E34F26?style=flat&logo=html5)
+![Code](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Code](https://img.shields.io/badge/Code-Go-00ADD8?style=flat&logo=go)
+![Code](https://img.shields.io/badge/Code-Python-3776AB?style=flat&logo=python)
+![Code](https://img.shields.io/badge/Code-C-A8B9CC?style=flat&logo=c)
+![Code](https://img.shields.io/badge/Code-Kotlin-7F52FF?style=flat&logo=kotlin)
+
+![Estilização](https://img.shields.io/badge/Estilização-TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
+![Estilização](https://img.shields.io/badge/Estilização-CSS3-1572B6?style=flat&logo=css&logoColor=blue)
+
+![Ferramentas](https://img.shields.io/badge/Ferramentas-VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Ferramentas](https://img.shields.io/badge/Ferramentas-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Ferramentas](https://img.shields.io/badge/Ferramentas-Git-F05032?style=flat&logo=git)
+![Ferramentas](https://img.shields.io/badge/Ferramentas-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Ferramentas](https://img.shields.io/badge/Ferramentas-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</div>
 
  <!-- 
 <img 
