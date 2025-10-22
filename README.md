@@ -212,6 +212,9 @@
 
 ---
 ### 🎯 Projetos Principais
+> Em finalização:
+
+ **2025** ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt)
 > Concluídos e `diponíveis` na web
 -  🎵 **2025** ➝ [project-react](https://github.com/Rafa-A-Brito/project-react) ☁
   
