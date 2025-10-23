@@ -1,6 +1,6 @@
 ### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="30px"/>Olá! Eu sou Rafael Brito 👋!
 <p align="left">
-      <a href="https://github.com/codinokrnos?tab=followers">
+      <a href="https://github.com/Rafa-A-Brito?tab=followers">
          <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rafa-A-Brito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Rafa-A-Brito?tab=repositories&sort=stargazers">
          <img alt="Total de estrelas" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rafa-A-Brito?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -214,7 +214,7 @@
 ### 🎯 Projetos Principais
 > Em finalização:
 
- **2025** ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt)
+- 📱 **2025** ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt) ♻️
 > Concluídos e `diponíveis` na web
 -  🎵 **2025** ➝ [project-react](https://github.com/Rafa-A-Brito/project-react) ☁
   
