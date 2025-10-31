@@ -19,6 +19,10 @@
       <img src="./assets/hashtagprogramacao.jpg" width="100px" alt="Foto HashtagProgramação"/><br/>
       <sub><b>Projeto React + MongoDB</b><br/>Hashtag Programação<br/><b>2025</b></sub>
     </td>
+    <td align="center" width="200px">
+      <img src="./assets/office_365.png" width="150px" alt="Foto Office 365"/><br/>
+      <sub><b>Pacote Office 365</b><br/>Hashtag Programação<br/><b>2025</b></sub>
+    </td>
   </tr>
 </table>
 
