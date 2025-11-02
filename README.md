@@ -21,7 +21,7 @@
     </td>
     <td align="center" width="200px">
       <img src="./assets/office_365.png" width="150px" alt="Foto Office 365"/><br/>
-      <sub><b>Pacote Office 365</b><br/>Hashtag Programação<br/><b>2025</b></sub>
+      <sub><b>Pacote <i>Office</i> 365</b><br/>Hashtag Programação<br/><b>2026</b></sub>
     </td>
   </tr>
 </table>
