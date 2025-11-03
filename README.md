@@ -50,106 +50,6 @@
 
 </div>
 
- <!-- 
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>      
-  
-<img     
-    align="left"
-    alt="Linguagem C"
-    title="Linguagem C"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-  
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-          
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left"
-    alt="CSS3"
-    title="CSS3"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img
-    align="left"
-    alt="Node"
-    title="Node"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" 
-/>      
-          
-<img
-    align="left"
-    alt="MongoDB"
-    title="MongoDB"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
-/>      
-          
-<img
-    align="left"
-    alt="React"
-    title="React"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img
-    align="left"
-    alt="Vite"
-    title="Vite"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Express"
-    title="Express"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-      
-<img 
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"
-/>
-<img 
-    align="left"
-    alt="GitHub"
-    title="GitHub"
-    width="30px"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   
-/>
--->
 ---
 
 ### 📊 Estatísticas
@@ -216,14 +116,19 @@
 
 ---
 ### 🎯 Projetos Principais
-> Em finalização:
 
-- 📱 **2025** ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt) ♻️
 > Concluídos e `diponíveis` na web
 -  🎵 **2025** ➝ [project-react](https://github.com/Rafa-A-Brito/project-react) ☁
-  
+
+`Réplica de um web player de música baseado em HTML, CSS, JS e JSX`
+
 > Em desenvolvimento:
--  🕹️ **Game** ➝ [pacman-js](https://github.com/Rafa-A-Brito/pacman-js) •ᴗ•
+-  🕹️ **2024**
+
+`Webgame baseado em Vanilla HTML e JavasScript` ➝ [pacman-js](https://github.com/Rafa-A-Brito/pacman-js) •ᴗ•
+- 📱 **2025**
+
+`Um app aliado a conscientização ambiental através da gamificação` ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt) ♻️
 
 ---
 
