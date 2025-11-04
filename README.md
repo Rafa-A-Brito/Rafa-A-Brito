@@ -120,15 +120,15 @@
 > Concluídos e `diponíveis` na web
 -  🎵 **2025** ➝ [project-react](https://github.com/Rafa-A-Brito/project-react) ☁
 
-`Réplica de um web player de música baseado em HTML, CSS, JS e JSX`
+Réplica de um web player musical baseado em HTML, CSS, JS e JSX.
 
 > Em desenvolvimento:
--  🕹️ **2024**
+-  🕹️ **2024** ➝ [pacman-js](https://github.com/Rafa-A-Brito/pacman-js) •ᴗ•
 
-`Webgame baseado em Vanilla HTML e JavasScript` ➝ [pacman-js](https://github.com/Rafa-A-Brito/pacman-js) •ᴗ•
-- 📱 **2025**
+_Webgame_ baseado em HTML vanilla e JavasScript 
+- 📱 **2025** ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt) ♻️
 
-`Um app aliado a conscientização ambiental através da gamificação` ➝ [greenmind-kt](https://github.com/Rafa-A-Brito/greenmind-kt) ♻️
+Um app aliado a conscientização ambiental através da gamificação 
 
 ---
 
