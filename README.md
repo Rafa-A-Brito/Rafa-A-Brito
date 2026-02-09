@@ -20,7 +20,7 @@
       <sub><b>Projeto React + MongoDB</b><br/>Hashtag Programação<br/><b>2025</b></sub>
     </td>
     <td align="center" width="200px">
-      <img src="./assets/hashtagprogramacao.jpg" width="100px" alt="Foto HashtagProgramação"/><br/>
+      <img src="./assets/hashtag_n8n.png" width="100px" alt="Foto HashtagProgramação"/><br/>
       <sub><b>Agentes de IA | N8N</b><br/>Hashtag Programação<br/><b>2025</b></sub>
     </td>
     <td align="center" width="200px">
