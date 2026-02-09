@@ -20,6 +20,10 @@
       <sub><b>Projeto React + MongoDB</b><br/>Hashtag Programação<br/><b>2025</b></sub>
     </td>
     <td align="center" width="200px">
+      <img src="./assets/hashtagprogramacao.jpg" width="100px" alt="Foto HashtagProgramação"/><br/>
+      <sub><b>Agentes de IA | N8N</b><br/>Hashtag Programação<br/><b>2025</b></sub>
+    </td>
+    <td align="center" width="200px">
       <img src="./assets/office_365.png" width="150px" alt="Foto Office 365"/><br/>
       <sub><b>Pacote <i>Office</i> 365</b><br/>Hashtag Programação<br/><b>2026</b></sub>
     </td>
@@ -47,6 +51,8 @@
 ![Ferramentas](https://img.shields.io/badge/Ferramentas-Git-F05032?style=flat&logo=git)
 ![Ferramentas](https://img.shields.io/badge/Ferramentas-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Ferramentas](https://img.shields.io/badge/Ferramentas-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Ferramentas](https://img.shields.io/badge/Ferramentas-N8N-ff0084?style=flat&logo=n8n&logoColor=white)
+
 
 </div>
 
