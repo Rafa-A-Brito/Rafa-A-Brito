@@ -1,8 +1,9 @@
-<div align="center">
-
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> Olá! Eu sou Rafael Brito
 
-### Desenvolvedor Full-Stack | Entusiasta de IA | Web Designer
+<div align="center">
+
+## Desenvolvedor Full-Stack | Entusiasta de IA | Web Designer
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <p align="center">
   <a href="https://github.com/Rafa-A-Brito?tab=followers">
@@ -16,7 +17,6 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -26,7 +26,7 @@
 
 | <img src="./assets/eniac.png" width="80px"/> | <img src="./assets/hashtagprogramacao.jpg" width="80px"/> | <img src="./assets/hashtag_n8n.png" width="80px"/> | <img src="./assets/office_365.png" width="120px"/> |
 |:---:|:---:|:---:|:---:|
-| **Técnico em Informática**<br/> ENIAC<br/> `2024-2026` | **Projeto React + MongoDB**<br/> Hashtag Programação<br/>🗓️ `2025` | **Agentes de IA \| N8N**<br/> Hashtag Programação<br/> `2025` | **Pacote Office 365**<br/> Hashtag Programação<br/> `2026` |
+| **Técnico em Informática**<br/> ENIAC<br/> `2024-2026` | **Projeto React + MongoDB**<br/> Hashtag Programação<br/> `2025` | **Agentes de IA \| N8N**<br/> Hashtag Programação<br/> `2025` | **Pacote Office 365**<br/> Hashtag Programação<br/> `2026` |
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Stack
 
-### 💻 Código & Lógica
+### 💻 Hard Code
 [![Minhas habilidades](https://skillicons.dev/icons?i=html,react,express,js,go,python,c,kotlin&perline=4)](https://skillicons.dev)
 
 ### 🎨 Estilização
@@ -49,16 +49,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Estatísticas GitHub
 
 <div align="center">
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-A-Brito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-A-Brito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafa-A-Brito&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafa-A-Brito&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -75,33 +72,22 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"/> Projetos em Destaque
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"/> Projetos 
 
 ### 🎵 [Project React](https://github.com/Rafa-A-Brito/project-react)
 > **Réplica de Web Player Musical** focado em UX e manipulação de estado.
 > 
-> `React` `JSX` `JavaScript` `CSS`
+> <kbd>React</kbd> <kbd>JSX</kbd> <kbd>JavaScript</kbd> <kbd>CSS</kbd>
 > 
-> ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square) ![Demo](https://img.shields.io/badge/Demo-Disponível-blue?style=flat-square)
-
-<br/>
-
-### 🕹️ [Pacman JS](https://github.com/Rafa-A-Brito/pacman-js)
-> **Classic Game** recriado com lógica de matrizes e renderização em Canvas.
-> 
-> `HTML5` `Canvas` `JavaScript` `Logic`
-> 
-> ![Status](https://img.shields.io/badge/Status-70%25-yellow?style=flat-square)
-
+> ![Status](https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=37914f&style=flat&logo=google-chrome&logoColor=white) [![Deploy](https://img.shields.io/static/v1?label=Deploy&message=Veja%20Aqui&color=1DB954&style=flat&logo=spotify&logoColor=white)](https://bit.ly/replSpotify)
 <br/>
 
 ### 📱 [GreenMind KT](https://github.com/Rafa-A-Brito/greenmind-kt)
 > **App Ambiental** mobile com recursos de conscientização e gamificação.
 > 
-> `Kotlin` `Mobile` `UI/UX`
+> <kbd>Kotlin</kbd> <kbd>Mobile</kbd> <kbd>UI/UX</kbd>
 > 
-> ![Status](https://img.shields.io/badge/Status-60%25-orange?style=flat-square)
-
+> ![Status](https://img.shields.io/static/v1?label=PROGRESSO&message=80%&color=4bc46b&style=flat&logo=android&logoColor=white)
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> Idiomas
@@ -116,7 +102,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216649426-f159e819-79e1-4e54-b8b2-81c71aff1e14.gif" width="30"/> Conecte-se Comigo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />Conecte-se Comigo
 
 <div align="center">
 
