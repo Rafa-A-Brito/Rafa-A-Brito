@@ -35,13 +35,13 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Stack
 
 ### 💻 Código & Lógica
-![Minhas habilidades](https://skillicons.dev/icons?i=react,html,js,go,python,c,kotlin)
+[![Minhas habilidades](https://skillicons.dev/icons?i=html,react,express,js,go,python,c,kotlin&perline=4)](https://skillicons.dev)
 
 ### 🎨 Estilização
 ![Minhas habilidades](https://skillicons.dev/icons?i=tailwind,css)
 
 ### 🔧 Ferramentas
-![Minhas habilidades](https://skillicons.dev/icons?i=vscode,nodejs,git,github,mongodb,n8n)
+[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,nodejs,git,github,mongodb,nextjs,npm,figma,firebase&perline=5)](https://skillicons.dev)
 
 ---
 
