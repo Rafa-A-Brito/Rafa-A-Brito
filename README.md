@@ -1,24 +1,18 @@
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> Olá! Eu sou Rafael Brito
 
 <div align="center">
-
-## Desenvolvedor Full-Stack | Entusiasta de IA | Web Designer
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DESENVOLVEDOR+FULL-STACK;ENTUSIASTA+DE+IA;WEB+DESIGNER" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://github.com/Rafa-A-Brito?tab=followers">
-    <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rafa-A-Brito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Rafa-A-Brito?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rafa-A-Brito?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-  </a>
-  <a href="https://github.com/Rafa-A-Brito">
-    <img alt="Profile views" title="Visualizações do Perfil" src="https://komarev.com/ghpvc/?username=Rafa-A-Brito&color=blueviolet&style=for-the-badge&label=Visitantes"/>
-  </a>
-</p>
-
-
-</div>
+      <a href="https://github.com/Rafa-A-Brito?tab=followers">
+         <img alt="followers" title="Siga-me no Github" src="https://custom-icon-badges.demolab.com/github/followers/Rafa-A-Brito?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Rafa-A-Brito?tab=repositories&sort=stargazers">
+         <img alt="Total de estrelas" title="Total de Estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Rafa-A-Brito?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Formação Acadêmica
 
@@ -34,13 +28,14 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Stack
 
-### 💻 Hard Code
+### `💻 Hard Code`
 [![Minhas habilidades](https://skillicons.dev/icons?i=html,react,express,js,go,python,c,kotlin&perline=4)](https://skillicons.dev)
 
-### 🎨 Estilização
+### `🎨 Estilização`
+
 ![Minhas habilidades](https://skillicons.dev/icons?i=tailwind,css)
 
-### 🔧 Ferramentas
+### `🔧 Ferramentas`
 [![Minhas habilidades](https://skillicons.dev/icons?i=vscode,nodejs,git,github,mongodb,nextjs,npm,figma,firebase&perline=5)](https://skillicons.dev)
 
 ---
@@ -87,7 +82,7 @@
 > 
 > <kbd>Kotlin</kbd> <kbd>Mobile</kbd> <kbd>UI/UX</kbd>
 > 
-> ![Status](https://img.shields.io/static/v1?label=PROGRESSO&message=80%&color=4bc46b&style=flat&logo=android&logoColor=white)
+> ![Status](https://img.shields.io/static/v1?label=EM%20PROGRESSO&message=80%&color=4bc46b&style=flat&logo=android&logoColor=white)
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> Idiomas
@@ -102,7 +97,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />Conecte-se Comigo
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Conecte-se Comigo
 
 <div align="center">
 
@@ -113,11 +108,7 @@
 
 </div>
 
----
-
 <div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="30"/> Contribuições
 
 ![snake gif](https://github.com/Rafa-A-Brito/Rafa-A-Brito/blob/output/github-snake-dark.svg)
 
