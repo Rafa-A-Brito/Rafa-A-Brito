@@ -67,7 +67,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"/> Projetos 
+## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"/> Projetos Integradores || Individuais
 
 ### 🎵 [Project React](https://github.com/Rafa-A-Brito/project-react)
 > **Réplica de Web Player Musical** focado em UX e manipulação de estado.
@@ -77,8 +77,8 @@
 > ![Status](https://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=37914f&style=flat&logo=google-chrome&logoColor=white) [![Deploy](https://img.shields.io/static/v1?label=Deploy&message=Veja%20Aqui&color=1DB954&style=flat&logo=spotify&logoColor=white)](https://bit.ly/replSpotify)
 <br/>
 
-### 📱 [GreenMind KT](https://github.com/Rafa-A-Brito/greenmind-kt)
-> **App Ambiental** mobile com recursos de conscientização e gamificação.
+### 📱 [Aplicação móvel GreenMind](https://github.com/Rafa-A-Brito/greenmind-kt)
+> **App Ambiental** mobile aliado aos recursos de conscientização e gamificação.
 > 
 > <kbd>Kotlin</kbd> <kbd>Mobile</kbd> <kbd>UI/UX</kbd>
 > 
