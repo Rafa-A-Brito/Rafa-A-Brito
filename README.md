@@ -38,7 +38,7 @@
 | ⚙️ **Back-end** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=python,c,go&perline=6)](https://skillicons.dev)</p> |
 | 📱 **Desenvolvimento Mobile** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase&perline=4)](https://skillicons.dev)</p> |
 | ☁️ **Cloud & Deploy** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=firebase,vercel,aws,cloudflare&perline=4)](https://skillicons.dev)</p> |
-| 🛢️ **Base de Dados & Dados** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3)](https://skillicons.dev) |
+| 🛢️ **Base de Dados** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3)](https://skillicons.dev) |
 | 🤖 **Automação + IA** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=python&perline=4)](https://skillicons.dev)<br><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"><br><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></p> |
 | 🖥️ **Ambiente & CLI** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=windows,powershell,bash&perline=3)](https://skillicons.dev)</p> |
 | ⛓️‍💥 **IDE's & Code Editors** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio&perline=4)](https://skillicons.dev)</p> |
