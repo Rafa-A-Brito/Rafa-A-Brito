@@ -66,7 +66,7 @@
 
 <div align="center">
 
-| <img src="./assets/mostratech.png" width="100px"/> | <img src="./assets/ong_acao_vida.png" width="100px"/> |  <img src="./assets/innov_fest" width="100px"/> 
+| <img src="./assets/mostratech.png" width="100px"/> | <img src="./assets/ong_acao_vida.png" width="100px"/> |  <img src="./assets/innov_fest.jpeg" width="100px"/> 
 |:---:|:---:|:---:|
 | **🎯 MOSTRATECH**<br/>ENIAC<br/> `2024` | **🤝 ONG Ação Vida**<br/>Auxiliar Administrativo<br/> `2024` | **🤔 Innovation fest**<br/>ENIAC<br/> `2026` | 
 </div>
