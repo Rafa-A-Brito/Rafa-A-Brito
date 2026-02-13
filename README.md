@@ -1,9 +1,10 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/> Olá! Eu sou Rafael Brito
+# Olá! Eu sou Rafael Brito
 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DESENVOLVEDOR+FULL-STACK;ENTUSIASTA+DE+IA;WEB+DESIGNER" alt="Typing SVG" />
   </a>
+     <img alt="Gif Rafa" align="right" width="85" src="./assets/gif-readme2.gif"/>
 </div>
 
 <p align="center">
@@ -28,18 +29,24 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Stack
 
-### `💻 Hard Code`
-[![Minhas habilidades](https://skillicons.dev/icons?i=html,react,express,js,go,python,c,kotlin&perline=4)](https://skillicons.dev)
+<div align="center">
 
-### `🎨 Estilização`
+| Área | Tecnologias |
+|------|-------------|
+| 🌐 **Full-Stack** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=react,vite,nextjs,express,nodejs&perline=7)](https://skillicons.dev)</p> |
+| 🎨 **Front-end** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,tailwind&perline=5)](https://skillicons.dev)</p> |
+| ⚙️ **Back-end** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=python,c,go&perline=6)](https://skillicons.dev)</p> |
+| 📱 **Desenvolvimento Mobile** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase&perline=4)](https://skillicons.dev)</p> |
+| ☁️ **Cloud & Deploy** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=firebase,vercel,aws,cloudflare&perline=4)](https://skillicons.dev)</p> |
+| 🛢️ **Base de Dados & Dados** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=3)](https://skillicons.dev) |
+| 🤖 **Automação + IA** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=python&perline=4)](https://skillicons.dev)<br><img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"><br><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></p> |
+| 🖥️ **Ambiente & CLI** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=windows,powershell,bash&perline=3)](https://skillicons.dev)</p> |
+| ⛓️‍💥 **IDE's & Code Editors** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,eclipse,idea,androidstudio&perline=4)](https://skillicons.dev)</p> |
+| 🔧 **Ferramentas** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=git,github,npm,figma,threejs&perline=5)](https://skillicons.dev)</p> |
 
-![Minhas habilidades](https://skillicons.dev/icons?i=tailwind,css)
-
-### `🔧 Ferramentas`
-[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,nodejs,git,github,mongodb,nextjs,npm,figma,firebase&perline=5)](https://skillicons.dev)
+</div>
 
 ---
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Estatísticas GitHub
 
@@ -59,10 +66,9 @@
 
 <div align="center">
 
-| <img src="./assets/mostratech.png" width="100px"/> | <img src="./assets/ong_acao_vida.png" width="100px"/> |
-|:---:|:---:|
-| **🎯 MOSTRATECH**<br/>ENIAC<br/> `2024` | **🤝 ONG Ação Vida**<br/>Auxiliar Administrativo<br/> `2024` |
-
+| <img src="./assets/mostratech.png" width="100px"/> | <img src="./assets/ong_acao_vida.png" width="100px"/> |  <img src="./assets/innov_fest" width="100px"/> 
+|:---:|:---:|:---:|
+| **🎯 MOSTRATECH**<br/>ENIAC<br/> `2024` | **🤝 ONG Ação Vida**<br/>Auxiliar Administrativo<br/> `2024` | **🤔 Innovation fest**<br/>ENIAC<br/> `2026` | 
 </div>
 
 ---
@@ -105,6 +111,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-brito-3a3819308/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/15h4BdBsXJ/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29687323/rafael-brito)
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-2E2E2E?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://bit.ly/portfolioRaf)
 
 </div>
 
@@ -115,6 +122,5 @@
 </div>
 
 <div align="right">
-      <img alt="Gif Rafa" align="right" width="150" src="./assets/gif-readme2.gif"/>
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </div>
