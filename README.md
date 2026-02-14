@@ -31,7 +31,7 @@
 
 <div align="center">
 
-| Área | Tecnologias |
+| `💼 Área` | `👨‍💻 Tecnologias` |
 |------|-------------|
 | 🌐 **Full-Stack** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=react,vite,nextjs,express,nodejs&perline=7)](https://skillicons.dev)</p> |
 | 🎨 **Front-end** | <p align="center">[![Minhas habilidades](https://skillicons.dev/icons?i=html,css,js,tailwind&perline=5)](https://skillicons.dev)</p> |
