@@ -25,7 +25,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"/> Tech Stack
 
@@ -46,7 +46,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> Estatísticas GitHub
 
@@ -60,7 +60,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafa-A-Brito&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25"/> Eventos & Competições
 
@@ -71,7 +72,7 @@
 | **🎯 MOSTRATECH**<br/>ENIAC<br/> `2024` | **🤝 ONG Ação Vida**<br/>Auxiliar Administrativo<br/> `2024` | **🤔 Innovation fest**<br/>ENIAC<br/> `2026` | 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30"/> Projetos em Destaque
 
@@ -89,7 +90,8 @@
 > <kbd>Kotlin</kbd> <kbd>Mobile</kbd> <kbd>UI/UX</kbd>
 > 
 > ![Status](https://img.shields.io/static/v1?label=EM%20PROGRESSO&message=80%&color=4bc46b&style=flat&logo=android&logoColor=white)
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> Idiomas
 
@@ -101,7 +103,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Conecte-se Comigo
 
