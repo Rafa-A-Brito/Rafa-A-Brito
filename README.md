@@ -91,6 +91,16 @@
 > 
 > ![Status](https://img.shields.io/static/v1?label=EM%20PROGRESSO&message=80%&color=4bc46b&style=flat&logo=android&logoColor=white)
 
+### 🚀 [Portfolio Pessoal](https://github.com/seu-usuario/portfolio-nextjs)
+> **Portfolio personalizado** desenvolvido para apresentar projetos, habilidades e experiências de forma moderna, responsiva e com foco em performance utilizando Next.js.
+>
+> <kbd>Next.js</kbd> <kbd>React</kbd> <kbd>JavaScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>Framer Motion</kbd> <kbd>Github API</kbd>
+>
+> ![Status](https://img.shields.io/static/v1?label=STATUS&message=EM%20ANDAMENTO&color=37914f&style=flat&logo=vercel&logoColor=white)
+<!-- [![Deploy](https://img.shields.io/static/v1?label=Deploy&message=Veja%20Aqui&color=000000&style=flat&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app) -->
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="25" height="25" /> Idiomas
