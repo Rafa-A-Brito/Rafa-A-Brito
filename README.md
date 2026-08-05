@@ -19,9 +19,9 @@
 
 <div align="center">
 
-| <img src="./assets/eniac.png" width="80px"/> | <img src="./assets/hashtagprogramacao.jpg" width="80px"/> | <img src="./assets/hashtag_n8n.png" width="80px"/> | <img src="./assets/office_365.png" width="120px"/> |
-|:---:|:---:|:---:|:---:|
-| **Técnico em Informática**<br/> ENIAC<br/> `2024-2026` | **Projeto React + MongoDB**<br/> Hashtag Programação<br/> `2025` | **Agentes de IA \| N8N**<br/> Hashtag Programação<br/> `2025` | **Pacote Office 365**<br/> Hashtag Programação<br/> `2026` |
+| <img src="./assets/eniac.png" width="75px"/> | <img src="./assets/hashtagprogramacao.jpg" width="75px"/> | <img src="./assets/hashtag_n8n.png" width="75px"/> | <img src="./assets/office_365.png" width="90"/> | <img src="./assets/fiap.png" width="75px"/>
+|:---:|:---:|:---:|:---:|:---:|
+| **Técnico em Informática**<br/> ENIAC<br/> `2024-2026` | **Projeto React + MongoDB**<br/> Hashtag Programação<br/> `2025` | **Agentes de IA \| N8N**<br/> Hashtag Programação<br/> `2025` | **Pacote Office 365**<br/> Hashtag Programação<br/> `2026` | **Semana Carreira TECH**<br/> FIAP + Alura<br/> `2026` |
 
 </div>
 
