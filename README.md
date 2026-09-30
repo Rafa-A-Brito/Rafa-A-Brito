@@ -19,9 +19,9 @@
 
 <div align="center">
 
-| <img src="./assets/eniac.png" width="75px"/> | <img src="./assets/hashtagprogramacao.jpg" width="75px"/> | <img src="./assets/hashtag_n8n.png" width="75px"/> | <img src="./assets/office_365.png" width="90"/> | <img src="./assets/fiap.png" width="75px"/> | <img src="./assets/ibm.png" width="75px"/>
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Técnico em Informática**<br/> ENIAC<br/> `2024-2026` | **Projeto React + MongoDB**<br/> Hashtag Programação<br/> `2025` | **Agentes de IA \| N8N**<br/> Hashtag Programação<br/> `2025` | **Pacote Office 365**<br/> Hashtag Programação<br/> `2026` | **Semana Carreira TECH**<br/> FIAP + Alura<br/> `2026` | **Visita Técnica IBM**<br/>ENIAC + IBM<br/> `2026` |
+| <img src="./assets/eniac.png" width="75px"/> | <img src="./assets/hashtagprogramacao.jpg" width="75px"/> | <img src="./assets/hashtag_n8n.png" width="75px"/> | <img src="./assets/office_365.png" width="90"/> | <img src="./assets/fiap.png" width="75px"/> |
+|:---:|:---:|:---:|:---:|:---:|
+| **Técnico em Informática**<br/> ENIAC<br/> `2024-2026` | **Projeto React + MongoDB**<br/> Hashtag Programação<br/> `2025` | **Agentes de IA \| N8N**<br/> Hashtag Programação<br/> `2025` | **Pacote Office 365**<br/> Hashtag Programação<br/> `2026` | **Semana Carreira TECH**<br/> FIAP + Alura<br/> `2026` |
 
 </div>
 
@@ -67,9 +67,9 @@
 
 <div align="center">
 
-| <img src="./assets/mostratech.png" width="100px"/> | <img src="./assets/ong_acao_vida.png" width="100px"/> |  <img src="./assets/innov_fest.jpeg" width="100px"/> 
-|:---:|:---:|:---:|
-| **🎯 MOSTRATECH**<br/>ENIAC<br/> `2024` | **🤝 ONG Ação Vida**<br/>Auxiliar Administrativo<br/> `2024` | **🤔 Innovation fest**<br/>ENIAC<br/> `2026` | 
+| <img src="./assets/mostratech.png" width="100px"/> | <img src="./assets/ong_acao_vida.png" width="100px"/> |  <img src="./assets/innov_fest.jpeg" width="100px"/> | <img src="./assets/ibm.png" width="75px"/>
+|:---:|:---:|:---:|:---:|
+| **🎯 MOSTRATECH**<br/>ENIAC<br/> `2024` | **🤝 ONG Ação Vida**<br/>Auxiliar Administrativo<br/> `2024` | **🤔 Innovation fest**<br/>ENIAC<br/> `2026` | **Visita Técnica IBM**<br/>ENIAC + IBM<br/> `2026` |
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
